@@ -1,4 +1,4 @@
-FROM python:3.10-alpine
+FROM python:3.11-alpine
 WORKDIR /app
 COPY tubearchivist-metrics/requirements.txt .
 RUN pip3 install -r requirements.txt
