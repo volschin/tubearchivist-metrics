@@ -1,2 +1,2 @@
-elasticsearch==8.12.1
-prometheus_client==0.20.0
+elasticsearch==8.17.2
+prometheus_client==0.21.1
